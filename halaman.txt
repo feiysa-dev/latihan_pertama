@@ -1,3 +1,7 @@
 profile
-seting
+setting
 tema
+
+beranda
+navbar
+footer
